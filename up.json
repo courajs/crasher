@@ -1,0 +1,13 @@
+{
+  "name": "crasher",
+  "profile": "****",
+  "regions": [
+    "us-east-2"
+  ],
+  "proxy": {
+    "retry": false
+  },
+  "error_pages": {
+    "disable": true
+  }
+}
